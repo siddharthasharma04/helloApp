@@ -1,0 +1,15 @@
+{
+  "name": "invest4money",
+  "version": "1.0.0",
+  "description": "Invest4Money.online \u001b[15",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/siddharthasharma04/helloApp.git"
+  },
+  "author": "Siddhartha sharma",
+  "license": "ISC"
+}
